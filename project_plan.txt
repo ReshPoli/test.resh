@@ -1,0 +1,1 @@
+Создай ветку "develop" и в ней добавь файл с планом проекта (project_plan.txt). Затем сделай merge ветки "develop" в "main".
